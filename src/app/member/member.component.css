@@ -1,0 +1,18 @@
+/*
+* File: member.component.css
+* Author: Rohrbacher Marcell
+* Copyright: 2022, Rohrbacher Marcell
+* Group: Szoft V
+* Date: 2022-03-31
+* Github: https://github.com/Marci971104
+* Licenc: GNU GPL
+*/
+
+
+input.ng-invalid {
+    background-color: pink;
+  }
+
+  input.ng-valid {
+    background-color: lightgreen;
+  }
